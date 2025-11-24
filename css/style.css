@@ -5,6 +5,17 @@
 }
 
 .header h1 {
-    padding: 3% 5%;
+    font-size: 40px;
+    padding: 13px 25px;
     border-bottom: 3px black solid;
+}
+
+.internal-box {
+    margin: 30px;
+    padding: 20px 20px 50px 20px;
+    border: 3px black solid;
+}
+
+.internal-box p {
+    font-size: 20px;
 }
