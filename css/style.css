@@ -19,3 +19,8 @@
 .internal-box p {
     font-size: 20px;
 }
+
+.footer {
+    padding: 10px 0px 30px 15px;
+    border-top: 3px black solid;
+}
