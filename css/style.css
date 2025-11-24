@@ -3,3 +3,8 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.header h1 {
+    padding: 3% 5%;
+    border-bottom: 3px black solid;
+}
